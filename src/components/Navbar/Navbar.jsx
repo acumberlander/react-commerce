@@ -32,11 +32,11 @@ const Navbar = ({ totalItems }) => {
 					>
 						<img
 							src={logo}
-							alt="Commerce.js"
+							alt="Re-Commerce"
 							height="25px"
 							className={classes.image}
 						/>
-						Commerce.js
+						Re-Commerce
 					</Typography>
 					<div className={classes.grow} />
 
